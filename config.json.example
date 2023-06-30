@@ -1,0 +1,11 @@
+{
+    "botName": "Kyowa",
+    "timezone": "Asia/Jakarta",
+    "limit": 100,
+    "ownerName": "Kio Seira",
+    "ownerNumber": [
+        "6285954482409"
+    ],
+    "sessionName": "Kyowa",
+    "apikey": "yourapikey"
+}
